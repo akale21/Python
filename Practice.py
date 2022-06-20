@@ -33,6 +33,7 @@ from numpy import *
 #     if i==3:
 #         break
 #     print("hell")
+
 #
 
 # --------------------square pattern------------------
