@@ -18,7 +18,7 @@ open command prompt
 set the path
 npm init or npm init --yes
 it will create package.json file
-npm config set init-author-name "Varshini"
+npm config set init-author-name "Anushka"
 npm set init-licence "MIT"
 npm init
 to check default value-npm config get init-author-name
